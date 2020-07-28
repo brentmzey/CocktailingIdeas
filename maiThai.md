@@ -23,16 +23,20 @@
 
 - 1/3 cup Thai Sweet Rice
 - 1.5 L water
+
   > Soak rice for at least 30 minutes under water, then drain to cook.
   > Bring water & rice to a boil, immediately lower temp to medium to simmer for 30 minutes.
   > While simmering, use an immersion blender to fully integrate & blend in the sweet rice -- takes about 5-10 minutes.
   > Remove from heat and allow to cool a bit before adding in Cream of Coconut. While cooling make the Cream of Coconut.
-- Cream of Coconut - In particular, I utilized JBUG's (John Brown's Underground - in Lawrence, KS) recipe for **_Cream of Coconut_**
-  > ##### Cream of Coconut (JBUG recipe; cut in half)
-  >
-  > - 1/2 can (~6 oz.) unsweetened coconut milk
-  > - 250 g sugar (white, granulated)
-  > - 15 mL pure coconut extract/tincture (I use organic)
-  > - 1.5 tsp table salt
-  >   > Add all ingredients besides coconut extract to a blender and blend until combined, about 1 minute.
-  >   > Once all combined, and cooled if necessary, then add and stir in coconut extract.
+
+- 50 g Cream of Coconut
+  - In particular, I utilized JBUG's [**_Cream of Coconut_** recipe](https://docs.google.com/document/d/1HjRrQ8nUBAdkEyhP7AbH442cavyeje88eW9y9YzTrQg/edit) (John Brown's Underground - in Lawrence, KS)
+  - JBUG's **_Coconut Cream/Cream of Coconut_** recipe is on the right-hand side of their Ramos Fizz recipe document.
+    > ##### Cream of Coconut (JBUG recipe; cut in half)
+    >
+    > - 1/2 can (~6 oz.) unsweetened coconut milk
+    > - 250 g sugar (white, granulated)
+    > - 15 mL pure coconut extract/tincture (I use organic)
+    > - 1.5 tsp table salt
+    >   > Add all ingredients besides coconut extract to a blender and blend until combined, about 1 minute.
+    >   > Once all combined, then add and stir in coconut extract while the rice mixture is still a bit warm.
