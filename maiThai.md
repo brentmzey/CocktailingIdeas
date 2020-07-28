@@ -20,3 +20,18 @@
 > - Garnish with 2-3 dashes orange bitters & fresh bouquet of mint & basil leaves (if you have these on hand)
 
 #### Thai Coconut Sweet Rice Orgeat
+
+- 1/3 cup Thai Sweet Rice
+- 1.5 L water
+  > Soak rice for at least 30 minutes under water, then drain to cook.
+  > Bring water & rice to a boil, immediately lower temp to medium to simmer for 30 minutes.
+  > While simmering, use an immersion blender to fully integrate & blend in the sweet rice -- takes about 5-10 minutes.
+  > Remove from heat and allow to cool a bit before adding in Cream of Coconut. While cooling make the Cream of Coconut.
+- Cream of Coconut - In particular, I utilized JBUG's (John Brown's Underground - in Lawrence, KS) recipe for **_Cream of Coconut_**
+  > ##### Cream of Coconut (JBUG recipe; cut in half)
+  >
+  > - 1/2 can (~6 oz.) unsweetened coconut milk
+  > - 250 g sugar (white, granulated)
+  > - 15 mL pure coconut extract/tincture (I use organic)
+  > - 1.5 tsp table salt
+  >   > Add all ingredients to a blender and blend until combined, about 1 minute.
