@@ -30,7 +30,7 @@
   > Remove from heat and allow to cool a bit before adding in Cream of Coconut. While cooling make the Cream of Coconut.
 
 - 50 g Cream of Coconut
-  - In particular, I utilized JBUG's <a href="https://docs.google.com/document/d/1HjRrQ8nUBAdkEyhP7AbH442cavyeje88eW9y9YzTrQg/edit" target="_blank">**_Cream of Coconut recipe_**</a> (John Brown's Underground - iconic cocktail bar in Lawrence, KS)
+  - In particular, I utilized JBUG's <!-- <a href="https://docs.google.com/document/d/1HjRrQ8nUBAdkEyhP7AbH442cavyeje88eW9y9YzTrQg/edit" target="_blank">**_Cream of Coconut recipe_**</a> --> [**_Cream of Coconut recipe_**](https://docs.google.com/document/d/1HjRrQ8nUBAdkEyhP7AbH442cavyeje88eW9y9YzTrQg/edit) (John Brown's Underground - iconic cocktail bar in Lawrence, KS)
   - JBUG's **_Coconut Cream/Cream of Coconut recipe_** is on the right-hand side of their Ramos Fizz recipe document.
     > ##### Cream of Coconut (JBUG recipe; cut in half)
     >
