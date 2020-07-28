@@ -34,4 +34,5 @@
   > - 250 g sugar (white, granulated)
   > - 15 mL pure coconut extract/tincture (I use organic)
   > - 1.5 tsp table salt
-  >   > Add all ingredients to a blender and blend until combined, about 1 minute.
+  >   > Add all ingredients besides coconut extract to a blender and blend until combined, about 1 minute.
+  >   > Once all combined, and cooled if necessary, then add and stir in coconut extract.
